@@ -1,0 +1,1 @@
+<footer>All Fit - alle rechten voorbehouden</footer>
