@@ -1,4 +1,4 @@
-<h1>Registreren</h1>
+<h1 class="display-4">Registreer</h1>
 <div class="row">
   <div class="col-6">
     <form action="./index.php?content=register" method="post">

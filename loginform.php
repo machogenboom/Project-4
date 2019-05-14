@@ -1,5 +1,5 @@
 <div class="row">
-  <h1>Inloggen</h1>
+<h1 class="display-4">Inloggen</h1>
 </div>
 <div class="row">
   <div class="col-6">
