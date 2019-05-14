@@ -38,7 +38,7 @@
 
   if ($result) {
     $to = $email;
-    $subject = "Activatielink www.loginregistration.am1b.org";
+    $subject = "Activatielink allfit";
     $message = '<!DOCTYPE html>
                 <html>
                 <head>
@@ -51,7 +51,7 @@
                 <h1>Beste klant,</h1>
                   <p>Bedankt voor het registreren op. Door op de onderstaande activatielink te klikken wordt het registratieproces voltooid.</p>
                   <p>
-                    <a href="http://localhost/projectsite-3/index.php?content=createpassword&id=' . $id . '">activeer uw account</a>
+                    <a href="http://www.allfit.nl/index.php?content=createpassword&id=' . $id . '">activeer uw account</a>
                   </p>
                   <p> Met vriendelijk groet,</p>
                   <p>Uw administrator</p>
