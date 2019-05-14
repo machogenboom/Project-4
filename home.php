@@ -1,9 +1,9 @@
 <link href="./css/carousel.css" rel="stylesheet">
 
 
-<main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+<main>
 
-<div class="container-fluid">
+<div class="container">
 
 <!-- include de carousel in de pagina -->
 <?php include('carousel.php'); ?>

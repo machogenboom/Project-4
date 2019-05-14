@@ -1,41 +1,4 @@
-<!doctype html>
 
-
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-
-    <link href="./css/dashboard.css" rel="stylesheet">
-
-    <main role="main">
-    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Max geheugen training</a>
-  <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
-  <div class="container">
-  <div class="row">
-    <div class="col-sm">
-    
-  <ul class="navbar-nav px-3">
-    <li class="nav-item text-nowrap">
-      <a class="nav-link" href="./index.php?content=loginform">Sign in</a>
-    </li>
-    </ul>
-    </div>
-    <div class="col-sm">
-    <ul class="navbar-nav px-3">
-    <li class="nav-item text-nowrap">
-      <a class="nav-link" href="./index.php?content=registerform">Sign up</a>
-    </li>
-  </ul>
-    </div>
-    <div class="col-sm">
-  <ul class="navbar-nav px-3">
-    <li class="nav-item text-nowrap">
-      <a class="nav-link" href="./index.php?content=logout">logout</a>
-    </li>
-  </ul>
-    </div>
-  </div>
-</div>
-</nav>
 
 <div class="container-fluid">
   <div class="row">
