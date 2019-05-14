@@ -11,19 +11,19 @@
   
   <ul class="nav justify-content-end">
   <li class="nav-item">
-    <a class="nav-link active" href="#">Info</a>
+    <a class="nav-link active" href="info.php">Info</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="#">Contact</a>
+    <a class="nav-link active" href="contact.php">Contact</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Log in</a>
+    <a class="nav-link" href="./index.php?content=loginform">Log in</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Register</a>
+    <a class="nav-link" href="./index.php?content=registerform">Register</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Log out</a>
+    <a class="nav-link" href="./index.php?content=logout" tabindex="-1" aria-disabled="true">Log out</a>
   </li>
 </ul>
     
